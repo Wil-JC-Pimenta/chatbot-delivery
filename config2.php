@@ -12,10 +12,10 @@ if($_SESSION['email'] == True){
   $total_clientes = mysqli_num_rows($resultado_busca);
 
   while($dados_usuario = mysqli_fetch_array($resultado_busca)){
-$email_cliente = $dados_usuario['email'];
-$senha_cliente= $dados_usuario['senha'];
-$nome_cliente= $dados_usuario['nome'];
-$tipo_cliente= $dados_usuario['tipo'];
+  $email_cliente = $dados_usuario['email'];
+  $senha_cliente= $dados_usuario['senha'];
+  $nome_cliente= $dados_usuario['nome'];
+  $tipo_cliente= $dados_usuario['tipo'];
 
 if($tipo_cliente == '1'){
   echo "<meta http-equiv='refresh' content='0;url=index.php'>"; 

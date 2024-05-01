@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fixed Responsive Nav
 
 ### Responsive, fixed and touch friendly one page navigation, using [Responsive Nav](http://responsive-nav.com/), smooth animated scrolling & vanilla JavaScript. Similar to the solution we are using on [Adtile’s site](http://www.adtile.me/).
@@ -50,3 +51,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+=======
+# chatbot-delivery
+Projeto: Desenvolvendo um chatbot  de Delivery  com PHP, Javascript, Bootstrap e Python.
+>>>>>>> b8185ec8e25602ab60aa78f72451acfaaf4ccf55

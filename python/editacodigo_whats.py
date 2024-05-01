@@ -35,7 +35,8 @@ def carregar_pagina_whatsapp(session_directory,site):
     chrome_options = Options()
     dir_path = os.getcwd()
     chrome_options.add_argument("user-data-dir=" + os.path.abspath(session_directory))
-    driver = /
+    driver = webdriver.Chrome(options=chrome_options)
+    #driver = webdriver.Chrome(ChromeDriverManager().install(),options=chrome_options)
     driver.get(site)
     return driver
 

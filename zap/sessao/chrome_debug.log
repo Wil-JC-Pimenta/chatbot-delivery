@@ -1,7 +1,0 @@
-[6500:6576:0908/155710.881:WARNING:chrome_main_delegate.cc(596)] This is Chrome version 116.0.5845.180 (not a warning)
-[6500:6576:0908/155722.343:INFO:chrome_browser_cloud_management_controller.cc(168)] Starting CBCM Controller Initialization
-[6500:6576:0908/155722.343:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[6500:7464:0908/155753.826:WARNING:backend_impl.cc(1816)] Destroying invalid entry.
-[6500:1400:0908/155754.861:WARNING:page_discarding_helper.cc(129)] Discarding multiple pages with target (kb): 0
-[6500:7464:0908/155756.460:WARNING:backend_impl.cc(1816)] Destroying invalid entry.
-[6500:6576:0908/155756.613:ERROR:network_service_instance_impl.cc(625)] Network service crashed, restarting service.
